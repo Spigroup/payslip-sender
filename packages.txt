@@ -1,0 +1,4 @@
+libcairo2
+pango1.0
+gdk-pixbuf2.0
+libffi-dev
